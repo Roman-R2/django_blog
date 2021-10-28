@@ -6,7 +6,6 @@ __pycache__/
 
 ### Django ###
 *.pyc
-__pycache__/
 db.sqlite3
 blog/settings.py
 /static

@@ -1,3 +1,13 @@
+### IDE ###
 .idea
-siteblog/settings.py
+
+### Python ###
+__pycache__/
+
+### Django ###
+*.pyc
+__pycache__/
+db.sqlite3
+blog/settings.py
 /static
+/blog/migrations
